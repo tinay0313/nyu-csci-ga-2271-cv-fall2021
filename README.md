@@ -1,6 +1,9 @@
 ## Assignment 1
 The project serves as an introduction to pytorch and builds neural networks using the MNIST and CIFAR datasets.
 
+## GTSRB Assignment
+The project uses the German Traffic Sign Recognition Benchmark data set and trains a CNN to perform object detection.
+
 ## Assignment 3
 The project explores image alignment and feature extraction methods.
 
